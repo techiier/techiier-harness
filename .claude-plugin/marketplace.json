@@ -1,0 +1,13 @@
+{
+  "name": "techiier-harness",
+  "owner": {
+    "name": "techiier"
+  },
+  "plugins": [
+    {
+      "name": "team-tools",
+      "source": "./plugins/team-tools",
+      "description": "Shared skills and slash commands (/tag, /commit) for Claude Code"
+    }
+  ]
+}
